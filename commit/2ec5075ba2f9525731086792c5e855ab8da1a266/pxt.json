@@ -1,0 +1,25 @@
+{
+    "name": "tej2o-unit5-04-commit-2ec5075ba2f9525731086792c5e855ab8da1a266",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "tej2o-unit5-04": "github:noah-yang666/tej2o-unit5-04"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
